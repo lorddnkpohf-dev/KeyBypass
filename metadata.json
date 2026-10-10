@@ -1,0 +1,6 @@
+{
+  "name": "KeyBypass",
+  "description": "Bypass ad-supported link shorteners and key systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
